@@ -13,6 +13,6 @@ public class EvenOrOddChecker {
             System.out.println(number + " is odd.");
         }
 
-        scanner.close();
+        scnr.close();
     }
 }
